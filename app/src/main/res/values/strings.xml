@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">NativeApp</string>
+    <string-array name="rating">
+        <item>Okay</item>
+        <item>Good</item>
+        <item>Excellent</item>
+        <item>Very Good</item>
+        <item>Perfect</item>
+    </string-array>
 </resources>
