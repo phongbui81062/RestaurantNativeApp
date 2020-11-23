@@ -107,6 +107,7 @@
         android:inputType="textPersonName">
     </EditText>
     <Button
+        android:id="@+id/btnSubmit"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="50dp"
@@ -114,7 +115,7 @@
         android:layout_marginRight="80dp"
         android:background="@color/teal_700"
         android:text="Submit"
-        android:id="@+id/btnSubmit">
+        >
     </Button>
 
 </LinearLayout>
